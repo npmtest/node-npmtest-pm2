@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [pm2 (v2.4.5)](http://pm2.keymetrics.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2)",
+    "description": "#### basic test coverage for  [pm2 (v2.4.5)](http://pm2.keymetrics.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "pm2": "*",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "0.0.3"
 }

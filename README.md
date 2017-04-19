@@ -1,6 +1,6 @@
 # npmtest-pm2
 
-#### test coverage for  [pm2 (v2.4.5)](http://pm2.keymetrics.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2)
+#### basic test coverage for  [pm2 (v2.4.5)](http://pm2.keymetrics.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2)
 
 #### Production process manager for Node.JS applications with a built-in load balancer.
 
