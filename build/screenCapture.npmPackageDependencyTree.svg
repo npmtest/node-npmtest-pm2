@@ -121,7 +121,7 @@
 <tspan x="10" y="1898">  │ │ ├─┬ inflight@1.0.6 </tspan>
 <tspan x="10" y="1914">  │ │ │ └── wrappy@1.0.2 </tspan>
 <tspan x="10" y="1930">  │ │ └── once@1.4.0 </tspan>
-<tspan x="10" y="1946">  │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="1946">  │ ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="1962">  │ └─┬ rechoir@0.6.2 </tspan>
 <tspan x="10" y="1978">  │   └─┬ resolve@1.3.2 </tspan>
 <tspan x="10" y="1994">  │     └── path-parse@1.0.5 </tspan>
